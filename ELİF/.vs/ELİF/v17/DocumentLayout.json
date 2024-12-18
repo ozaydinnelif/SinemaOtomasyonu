@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|c:\\users\\pc\\source\\repos\\el\u0130f\\el\u0130f\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|solutionrelative:el\u0130f\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|c:\\users\\pc\\source\\repos\\el\u0130f\\el\u0130f\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|solutionrelative:el\u0130f\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|c:\\users\\pc\\source\\repos\\el\u0130f\\el\u0130f\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|solutionrelative:el\u0130f\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|c:\\users\\pc\\source\\repos\\el\u0130f\\el\u0130f\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|solutionrelative:el\u0130f\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|c:\\users\\pc\\source\\repos\\el\u0130f\\el\u0130f\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|solutionrelative:el\u0130f\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|c:\\users\\pc\\source\\repos\\el\u0130f\\el\u0130f\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|solutionrelative:el\u0130f\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|c:\\users\\pc\\source\\repos\\el\u0130f\\el\u0130f\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|solutionrelative:el\u0130f\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|c:\\users\\pc\\source\\repos\\el\u0130f\\el\u0130f\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|solutionrelative:el\u0130f\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|c:\\users\\pc\\source\\repos\\el\u0130f\\el\u0130f\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|solutionrelative:el\u0130f\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|c:\\users\\pc\\source\\repos\\el\u0130f\\el\u0130f\\el\u0130f.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|solutionrelative:el\u0130f\\el\u0130f.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|c:\\users\\pc\\source\\repos\\el\u0130f\\el\u0130f\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|solutionrelative:el\u0130f\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|c:\\users\\pc\\source\\repos\\el\u0130f\\el\u0130f\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|solutionrelative:el\u0130f\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|c:\\users\\pc\\source\\repos\\el\u0130f\\el\u0130f\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|solutionrelative:el\u0130f\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Migrations\\20240829133129_SeedProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EL\u0130F\\Migrations\\20240829133129_SeedProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|c:\\users\\pc\\source\\repos\\el\u0130f\\el\u0130f\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|solutionrelative:el\u0130f\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|c:\\users\\pc\\source\\repos\\el\u0130f\\el\u0130f\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|solutionrelative:el\u0130f\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Migrations\\20240829130415_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EL\u0130F\\Migrations\\20240829130415_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|c:\\users\\pc\\source\\repos\\el\u0130f\\el\u0130f\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B16D15-43FB-4D4A-ACEC-1A3EB27338BD}|EL\u0130F\\EL\u0130F.csproj|solutionrelative:el\u0130f\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\appsettings.json",
+              "RelativeDocumentMoniker": "EL\u0130F\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\appsettings.json",
+              "RelativeToolTip": "EL\u0130F\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T13:02:27.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EL\u0130F\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EL\u0130F\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:55:52.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "EL\u0130F\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "EL\u0130F\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T16:37:37.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Program.cs",
+              "RelativeDocumentMoniker": "EL\u0130F\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Program.cs",
+              "RelativeToolTip": "EL\u0130F\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:00:39.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "EL\u0130F\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Services\\CartService.cs",
+              "RelativeToolTip": "EL\u0130F\\Services\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T16:30:01.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EL\u0130F\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Models\\Product.cs",
+              "RelativeToolTip": "EL\u0130F\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:52:19.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EL\u0130F\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EL\u0130F\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T17:12:47.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EL\u0130F\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EL\u0130F\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T17:12:36.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EL\u0130F",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\EL\u0130F.csproj",
+              "RelativeDocumentMoniker": "EL\u0130F\\EL\u0130F.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\EL\u0130F.csproj",
+              "RelativeToolTip": "EL\u0130F\\EL\u0130F.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-30T17:12:22.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "EL\u0130F\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Controllers\\CartController.cs",
+              "RelativeToolTip": "EL\u0130F\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T16:35:52.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "EL\u0130F\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Models\\CartItem.cs",
+              "RelativeToolTip": "EL\u0130F\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T16:26:41.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EL\u0130F\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EL\u0130F\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T17:12:09.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EL\u0130F\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EL\u0130F\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:11:02.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240829133129_SeedProducts.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Migrations\\20240829133129_SeedProducts.cs",
+              "RelativeDocumentMoniker": "EL\u0130F\\Migrations\\20240829133129_SeedProducts.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Migrations\\20240829133129_SeedProducts.cs",
+              "RelativeToolTip": "EL\u0130F\\Migrations\\20240829133129_SeedProducts.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:31:29.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "EL\u0130F\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "EL\u0130F\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:15:04.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "EL\u0130F\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "EL\u0130F\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:15:48.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240829130415_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Migrations\\20240829130415_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EL\u0130F\\Migrations\\20240829130415_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Migrations\\20240829130415_InitialCreate.cs",
+              "RelativeToolTip": "EL\u0130F\\Migrations\\20240829130415_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:04:15.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EL\u0130F\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\EL\u0130F\\EL\u0130F\\Models\\Order.cs",
+              "RelativeToolTip": "EL\u0130F\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:53:00.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

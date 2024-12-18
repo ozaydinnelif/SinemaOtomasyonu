@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\PersonListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB4F9A3-3E17-49F1-A252-4BA53290121D}|PersonListApp\\PersonListApp.csproj|c:\\users\\pc\\source\\repos\\personlistapp\\personlistapp\\data\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB4F9A3-3E17-49F1-A252-4BA53290121D}|PersonListApp\\PersonListApp.csproj|solutionrelative:personlistapp\\data\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB4F9A3-3E17-49F1-A252-4BA53290121D}|PersonListApp\\PersonListApp.csproj|c:\\users\\pc\\source\\repos\\personlistapp\\personlistapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB4F9A3-3E17-49F1-A252-4BA53290121D}|PersonListApp\\PersonListApp.csproj|solutionrelative:personlistapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB4F9A3-3E17-49F1-A252-4BA53290121D}|PersonListApp\\PersonListApp.csproj|c:\\users\\pc\\source\\repos\\personlistapp\\personlistapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDB4F9A3-3E17-49F1-A252-4BA53290121D}|PersonListApp\\PersonListApp.csproj|solutionrelative:personlistapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB4F9A3-3E17-49F1-A252-4BA53290121D}|PersonListApp\\PersonListApp.csproj|c:\\users\\pc\\source\\repos\\personlistapp\\personlistapp\\data\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB4F9A3-3E17-49F1-A252-4BA53290121D}|PersonListApp\\PersonListApp.csproj|solutionrelative:personlistapp\\data\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\PersonListApp\\PersonListApp\\Data\\PersonContext.cs",
+              "RelativeDocumentMoniker": "PersonListApp\\Data\\PersonContext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\PersonListApp\\PersonListApp\\Data\\PersonContext.cs*",
+              "RelativeToolTip": "PersonListApp\\Data\\PersonContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:34:51.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\PersonListApp\\PersonListApp\\appsettings.json",
+              "RelativeDocumentMoniker": "PersonListApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\PersonListApp\\PersonListApp\\appsettings.json*",
+              "RelativeToolTip": "PersonListApp\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-15T21:29:11.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\PersonListApp\\PersonListApp\\Data\\Class.cs",
+              "RelativeDocumentMoniker": "PersonListApp\\Data\\Class.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\PersonListApp\\PersonListApp\\Data\\Class.cs*",
+              "RelativeToolTip": "PersonListApp\\Data\\Class.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:28:11.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\PersonListApp\\PersonListApp\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "PersonListApp\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\PersonListApp\\PersonListApp\\Models\\Person.cs*",
+              "RelativeToolTip": "PersonListApp\\Models\\Person.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:23:14.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

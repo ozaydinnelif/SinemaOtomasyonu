@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\SinemaOtomasyonu\obj\Debug\net8.0\SinemaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\SinemaOtomasyonu\obj\Debug\net8.0\SinemaOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\SinemaOtomasyonu\obj\Debug\net8.0\SinemaOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\SinemaOtomasyonu\obj\Debug\net8.0\SinemaOtomasyonu.AssemblyInfo.cs
+C:\Users\pc\source\repos\SinemaOtomasyonu\obj\Debug\net8.0\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SinemaOtomasyonu\obj\Debug\net8.0\SinemaOtomasyonu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\source\repos\SinemaOtomasyonu\obj\Debug\net8.0\SinemaOtomasyonu.RazorAssemblyInfo.cache
+C:\Users\pc\source\repos\SinemaOtomasyonu\obj\Debug\net8.0\SinemaOtomasyonu.RazorAssemblyInfo.cs

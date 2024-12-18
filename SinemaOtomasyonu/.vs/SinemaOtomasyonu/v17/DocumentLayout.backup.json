@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\sinemaotomasyonu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\sinemaotomasyonu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\models\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\models\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\models\\sinemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\models\\sinemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\controllers\\saloncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\controllers\\saloncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\views\\salon\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\views\\salon\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\views\\salon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\views\\salon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\views\\salon\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\views\\salon\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\views\\films\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\views\\films\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\views\\films\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\views\\films\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\views\\salon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\views\\salon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\views\\salon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\views\\salon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|c:\\users\\pc\\source\\repos\\sinemaotomasyonu\\sinemaotomasyonu\\views\\films\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38C81266-9F8B-4B5F-8612-80A7044F7589}|SinemaOtomasyonu\\SinemaOtomasyonu.csproj|solutionrelative:sinemaotomasyonu\\views\\films\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:04:08.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinemaOtomasyonu.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\SinemaOtomasyonu.csproj",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\SinemaOtomasyonu.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\SinemaOtomasyonu.csproj",
+              "RelativeToolTip": "SinemaOtomasyonu\\SinemaOtomasyonu.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T12:42:44.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "SinemaOtomasyonu\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T07:08:19.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "SinemaOtomasyonu\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T07:07:38.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Models\\User.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:54:12.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Models\\Film.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Models\\Film.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\Models\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:27:42.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:51:26.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Salon.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Models\\Salon.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Models\\Salon.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Models\\Salon.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\Models\\Salon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:14:38.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\appsettings.json",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\appsettings.json",
+              "RelativeToolTip": "SinemaOtomasyonu\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T05:35:16.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SinemaContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Models\\SinemaContext.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Models\\SinemaContext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Models\\SinemaContext.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\Models\\SinemaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:14:46.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Program.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Program.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:05:04.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SalonController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Controllers\\SalonController.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Controllers\\SalonController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Controllers\\SalonController.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\Controllers\\SalonController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAwwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:56:52.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilmsController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Controllers\\FilmsController.cs",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Controllers\\FilmsController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Controllers\\FilmsController.cs",
+              "RelativeToolTip": "SinemaOtomasyonu\\Controllers\\FilmsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:03:26.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\Salon\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Views\\Salon\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\Salon\\Edit.cshtml",
+              "RelativeToolTip": "SinemaOtomasyonu\\Views\\Salon\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:50:35.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\Salon\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Views\\Salon\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\Salon\\Delete.cshtml",
+              "RelativeToolTip": "SinemaOtomasyonu\\Views\\Salon\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:51:36.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\Salon\\Details.cshtml",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Views\\Salon\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\Salon\\Details.cshtml",
+              "RelativeToolTip": "SinemaOtomasyonu\\Views\\Salon\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:51:08.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\Films\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Views\\Films\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\Films\\Edit.cshtml",
+              "RelativeToolTip": "SinemaOtomasyonu\\Views\\Films\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T08:53:23.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\Films\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Views\\Films\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\Films\\Delete.cshtml",
+              "RelativeToolTip": "SinemaOtomasyonu\\Views\\Films\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:53:09.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\Salon\\Create.cshtml",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Views\\Salon\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\Salon\\Create.cshtml",
+              "RelativeToolTip": "SinemaOtomasyonu\\Views\\Salon\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:50:04.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\Salon\\Index.cshtml",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Views\\Salon\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\Salon\\Index.cshtml",
+              "RelativeToolTip": "SinemaOtomasyonu\\Views\\Salon\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:23:41.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\Films\\Index.cshtml",
+              "RelativeDocumentMoniker": "SinemaOtomasyonu\\Views\\Films\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\SinemaOtomasyonu\\SinemaOtomasyonu\\Views\\Films\\Index.cshtml",
+              "RelativeToolTip": "SinemaOtomasyonu\\Views\\Films\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T09:09:20.147Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

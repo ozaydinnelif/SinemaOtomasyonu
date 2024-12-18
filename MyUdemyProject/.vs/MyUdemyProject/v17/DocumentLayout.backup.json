@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFE5AE5-61AC-45C3-A92F-40F546FAC95F}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\pc\\source\\repos\\myudemyproject\\apiconsume\\hotelproject.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFE5AE5-61AC-45C3-A92F-40F546FAC95F}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFE5AE5-61AC-45C3-A92F-40F546FAC95F}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\pc\\source\\repos\\myudemyproject\\apiconsume\\hotelproject.webapi\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFE5AE5-61AC-45C3-A92F-40F546FAC95F}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFE5AE5-61AC-45C3-A92F-40F546FAC95F}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\pc\\source\\repos\\myudemyproject\\apiconsume\\hotelproject.webapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFE5AE5-61AC-45C3-A92F-40F546FAC95F}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D00D4E8-95FB-4043-A320-9A6A14E82BD1}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\pc\\source\\repos\\myudemyproject\\apiconsume\\hotelproject.businesslayer\\concrete\\subscribemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D00D4E8-95FB-4043-A320-9A6A14E82BD1}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:apiconsume\\hotelproject.businesslayer\\concrete\\subscribemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2EB196-5E14-45F9-93DA-1BCBDBD25980}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\pc\\source\\repos\\myudemyproject\\apiconsume\\hotelproject.dataaccesslayer\\entityframework\\eftestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2EB196-5E14-45F9-93DA-1BCBDBD25980}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:apiconsume\\hotelproject.dataaccesslayer\\entityframework\\eftestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D00D4E8-95FB-4043-A320-9A6A14E82BD1}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\pc\\source\\repos\\myudemyproject\\apiconsume\\hotelproject.businesslayer\\concrete\\testimonialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D00D4E8-95FB-4043-A320-9A6A14E82BD1}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:apiconsume\\hotelproject.businesslayer\\concrete\\testimonialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D00D4E8-95FB-4043-A320-9A6A14E82BD1}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\pc\\source\\repos\\myudemyproject\\apiconsume\\hotelproject.businesslayer\\concrete\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D00D4E8-95FB-4043-A320-9A6A14E82BD1}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:apiconsume\\hotelproject.businesslayer\\concrete\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D00D4E8-95FB-4043-A320-9A6A14E82BD1}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\pc\\source\\repos\\myudemyproject\\apiconsume\\hotelproject.businesslayer\\concrete\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D00D4E8-95FB-4043-A320-9A6A14E82BD1}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:apiconsume\\hotelproject.businesslayer\\concrete\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D00D4E8-95FB-4043-A320-9A6A14E82BD1}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\pc\\source\\repos\\myudemyproject\\apiconsume\\hotelproject.businesslayer\\concrete\\staffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D00D4E8-95FB-4043-A320-9A6A14E82BD1}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:apiconsume\\hotelproject.businesslayer\\concrete\\staffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2EB196-5E14-45F9-93DA-1BCBDBD25980}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\pc\\source\\repos\\myudemyproject\\apiconsume\\hotelproject.dataaccesslayer\\entityframework\\efstaffdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2EB196-5E14-45F9-93DA-1BCBDBD25980}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:apiconsume\\hotelproject.dataaccesslayer\\entityframework\\efstaffdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485327B3-777D-43CD-8AE1-D1AED6BACD75}|NewFolder1{485327B3-777D-43CD-8AE1-D1AED6BACD75}|C:\\Users\\pc\\source\\repos\\MyUdemyProject\\Ad\u0131mlar.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{485327B3-777D-43CD-8AE1-D1AED6BACD75}|NewFolder1{485327B3-777D-43CD-8AE1-D1AED6BACD75}|solutionrelative:Ad\u0131mlar.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.WebApi\\Program.cs*",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApi\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:09:01.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.WebApi\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApi\\Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.WebApi\\Controllers\\StaffController.cs*",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApi\\Controllers\\StaffController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:11:47.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscribeManager.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Concrete\\SubscribeManager.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.BusinessLayer\\Concrete\\SubscribeManager.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Concrete\\SubscribeManager.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.BusinessLayer\\Concrete\\SubscribeManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA8wDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:49:42.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.WebApi\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApi\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.WebApi\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApi\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:46:19.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EfTestimonialDal.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADgvw0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:06:03.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestimonialManager.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Concrete\\TestimonialManager.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.BusinessLayer\\Concrete\\TestimonialManager.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Concrete\\TestimonialManager.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.BusinessLayer\\Concrete\\TestimonialManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:07:37.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Concrete\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.BusinessLayer\\Concrete\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Concrete\\ServiceManager.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.BusinessLayer\\Concrete\\ServiceManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADgvywAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:47:37.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomManager.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Concrete\\RoomManager.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.BusinessLayer\\Concrete\\RoomManager.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Concrete\\RoomManager.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.BusinessLayer\\Concrete\\RoomManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:47:10.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StaffManager.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Concrete\\StaffManager.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.BusinessLayer\\Concrete\\StaffManager.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.BusinessLayer\\Concrete\\StaffManager.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.BusinessLayer\\Concrete\\StaffManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:46:57.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EfStaffDal.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfStaffDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfStaffDal.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfStaffDal.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfStaffDal.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAtwCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:27:44.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ad\u0131mlar.txt",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\Ad\u0131mlar.txt",
+              "RelativeDocumentMoniker": "Ad\u0131mlar.txt",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\MyUdemyProject\\Ad\u0131mlar.txt",
+              "RelativeToolTip": "Ad\u0131mlar.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-26T14:45:34.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
